@@ -1,0 +1,13 @@
+.timer {
+  display: flex;
+  padding: 100px 200px;
+}
+.field {
+  margin-right: 40px;
+}
+.label {
+  font-size: 30px;
+}
+.value {
+  font-size: 100px;
+}
